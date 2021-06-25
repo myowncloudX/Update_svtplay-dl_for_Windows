@@ -1,0 +1,2 @@
+# Update script for svtplay-dl for Windows
+# Check the version between Installed verson and the Latest stable version of 'svtplay-dl' with powershell script.
